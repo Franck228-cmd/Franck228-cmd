@@ -2,7 +2,7 @@
 - 👀 I’m interested in Front End develpment
 - 🌱 I’m currently learning HTLM, CSS
 - 💞️ I’m looking to collaborate on projects to help me improve my  learningpath.
-- 📫 How to reach me at franckyhap@gmail.com
+- 📫 Reach me at franckyhap@gmail.com
 - ✨ You're special!!!
 
 <!---
